@@ -11,6 +11,7 @@ The banner shows your host, operating system, kernel, uptime, load, CPU count, m
 
 Review the installer before running it, then install with:
 
+```
 ```bash
 git clone --depth 1 https://github.com/xgshost/xgs-login-banner.git
 cd xgs-login-banner
