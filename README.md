@@ -59,9 +59,3 @@ sudo cp -a /etc/pam.d/sshd.xgs-backup /etc/pam.d/sshd
 sudo cp -a /etc/pam.d/login.xgs-backup /etc/pam.d/login
 ```
 
-## License
-
-See [LICENSE](LICENSE) if one is included in this repository.
-```
-
-If the repo doesn’t have a `LICENSE` file, you can remove the License section for now.
